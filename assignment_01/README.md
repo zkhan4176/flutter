@@ -1,7 +1,3 @@
-# Flutter Course
-
-Flutter is Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. 
-
 ## Assignment # 1
 Read text from a file and find words that appear most in a line in the file. 
 1. finding the highest frequency word(s) in each line.
